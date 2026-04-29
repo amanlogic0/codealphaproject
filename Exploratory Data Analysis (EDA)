@@ -1,0 +1,78 @@
+# 📊 Sales Data Analysis (EDA + Visualization)
+
+## 🔍 Project Overview
+
+This project focuses on **Exploratory Data Analysis (EDA)** and **Data Visualization** using Python.
+The goal is to understand the dataset, identify patterns, and generate meaningful insights from sales data.
+
+---
+
+## 🎯 Objectives
+
+* Understand the structure of the dataset
+* Perform data cleaning and preprocessing
+* Analyze sales and profit trends
+* Identify top-performing products and regions
+* Visualize insights using charts and graphs
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Google Colab
+
+---
+
+## 📁 Dataset
+
+The dataset contains the following columns:
+
+* Date
+* Product
+* Region
+* Sales
+* Profit
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+* Checked dataset structure and data types
+* Generated summary statistics
+* Identified missing values
+* Analyzed total sales by product
+* Analyzed total profit by region
+
+---
+
+## 📈 Data Visualization
+
+The following visualizations were created:
+
+* Bar Chart: Total Sales by Product
+* Bar Chart: Total Profit by Region
+* Line Chart: Sales Trend Over Time
+
+---
+
+## 🔑 Key Insights
+
+* Protein Powder is the highest-selling product
+* West region generates the highest profit
+* Sales show an increasing trend over time
+
+---
+
+## 🚀 Conclusion
+
+This project demonstrates how **EDA and visualization techniques** can help in making data-driven decisions and understanding business performance.
+
+---
+
+## 📌 Author
+
+**Aman (FitBanda)**
+Aspiring Data Analyst | Python Learner
